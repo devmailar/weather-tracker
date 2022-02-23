@@ -48,7 +48,7 @@ body .card .search .search-bar {
   font-family: inherit;
   font-size: 1.3rem;
   border-bottom: solid .1rem white;
-  width: calc(100% - 320px);
+  width: 5.5rem;
 }
 
 body .card .search button {
